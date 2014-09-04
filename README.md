@@ -1,0 +1,4 @@
+tarkvaratehnika
+===============
+
+Tarkvaratehnika projekti repositoorium
